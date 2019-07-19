@@ -1,0 +1,11 @@
+D:\Curso API\RESTfulAPIAspNetCore_Course\csproj_msbuild_core2\start-end\Library\src\Library.API\bin\Debug\netcoreapp2.0\Library.API.deps.json
+D:\Curso API\RESTfulAPIAspNetCore_Course\csproj_msbuild_core2\start-end\Library\src\Library.API\bin\Debug\netcoreapp2.0\Library.API.runtimeconfig.json
+D:\Curso API\RESTfulAPIAspNetCore_Course\csproj_msbuild_core2\start-end\Library\src\Library.API\bin\Debug\netcoreapp2.0\Library.API.runtimeconfig.dev.json
+D:\Curso API\RESTfulAPIAspNetCore_Course\csproj_msbuild_core2\start-end\Library\src\Library.API\bin\Debug\netcoreapp2.0\Library.API.dll
+D:\Curso API\RESTfulAPIAspNetCore_Course\csproj_msbuild_core2\start-end\Library\src\Library.API\bin\Debug\netcoreapp2.0\Library.API.pdb
+D:\Curso API\RESTfulAPIAspNetCore_Course\csproj_msbuild_core2\start-end\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.csprojAssemblyReference.cache
+D:\Curso API\RESTfulAPIAspNetCore_Course\csproj_msbuild_core2\start-end\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.csproj.CoreCompileInputs.cache
+D:\Curso API\RESTfulAPIAspNetCore_Course\csproj_msbuild_core2\start-end\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.AssemblyInfoInputs.cache
+D:\Curso API\RESTfulAPIAspNetCore_Course\csproj_msbuild_core2\start-end\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.AssemblyInfo.cs
+D:\Curso API\RESTfulAPIAspNetCore_Course\csproj_msbuild_core2\start-end\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.dll
+D:\Curso API\RESTfulAPIAspNetCore_Course\csproj_msbuild_core2\start-end\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.pdb
